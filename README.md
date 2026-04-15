@@ -33,7 +33,7 @@ Facial recognition systems are widely used in security and identification system
 ## Reference
 
 Original repository:  
-👉 https://github.com/jsscripts/face-recognition-automotive
+👉 https://github.com/rafaelbrito123/TCC_PROTOTIPO
 
 ---
 
